@@ -9,12 +9,12 @@ import os
 
 # Path where you saved the images
 image_files = [
-    '/mnt/data/IMG_0497.PNG',
-    '/mnt/data/IMG_0498.PNG',
-    '/mnt/data/IMG_0499.PNG',
-    '/mnt/data/IMG_0500.PNG',
-    '/mnt/data/IMG_0501.PNG',
-    '/mnt/data/IMG_0502.PNG'
+    '/img/IMG_0497.PNG',
+    '/img/IMG_0498.PNG',
+    '/img/IMG_0499.PNG',
+    '/img/IMG_0500.PNG',
+    '/img/IMG_0501.PNG',
+    '/img/IMG_0502.PNG'
 ]
 
 # Storage for extracted data
